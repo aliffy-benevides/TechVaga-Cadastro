@@ -1,0 +1,14 @@
+.cadastro {
+    background-color: #fff;
+    border-radius: 16px;
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    padding: 20px;
+}
+
+.cadastro form {
+    text-align: center;
+}
+
+.cadastro form .form-group label {
+    font-size: 1.2em;
+}

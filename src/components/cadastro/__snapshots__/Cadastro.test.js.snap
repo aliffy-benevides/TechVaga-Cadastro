@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`update total vacancies 1`] = `
+<input
+  class="form-control"
+  id="vagas_atualizadas"
+  min="0"
+  name="vacancies"
+  type="number"
+/>
+`;
+
+exports[`update total vacancies 2`] = `
+<button
+  class="btn btn-info"
+  id="atualizar_vagas"
+  type="submit"
+>
+  Atualizar
+</button>
+`;

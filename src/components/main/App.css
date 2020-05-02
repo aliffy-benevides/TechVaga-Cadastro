@@ -1,0 +1,36 @@
+.app {
+    height: 100%;
+
+    display: flex;
+    flex-flow: column nowrap;
+}
+
+.header {
+    /* display: flex;
+    justify-content: space-between;
+    align-items: center; */
+}
+
+.header img {
+    max-height: 64px;
+}
+
+.header .techVagaLogo {
+    font-size: 2rem;
+    font-weight: bold;
+    /* color: #FFF; */
+}
+
+.header nav {
+
+}
+
+.content {
+    flex-grow: 1;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    background-color: rgb(160, 172, 248);
+}

@@ -1,0 +1,12 @@
+.dashboard {
+    background-color: #fff;
+    border-radius: 16px;
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    padding: 20px;
+
+    text-align: center;
+}
+
+.dashboard p {
+    font-size: 2em;
+}
