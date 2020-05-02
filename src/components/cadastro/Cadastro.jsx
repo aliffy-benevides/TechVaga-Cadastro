@@ -11,7 +11,6 @@ export default props => {
                     <label htmlFor="vagas_atualizadas">Quantidade de Vagas</label>
                     <input type="number" name="vacancies" className="form-control" id="vagas_atualizadas" min={0} />
                 </div>
-                {/* <input name="vacancies" id="vagas_atualizadas" /> */}
                 <button id="atualizar_vagas" type="submit" className="btn btn-info">
                     Atualizar
                 </button>
