@@ -1,7 +1,7 @@
 import React from 'react'
 import './Cadastro.css'
 
-const { REACT_APP_API_BASE_URL: apiBaseUrl } = process.env
+// const { REACT_APP_API_BASE_URL: apiBaseUrl } = process.env
 
 export default props => {
     return (
